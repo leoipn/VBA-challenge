@@ -1,4 +1,3 @@
-Attribute VB_Name = "Módulo11"
 Sub wallStreet()
  
     Dim ticker As String
