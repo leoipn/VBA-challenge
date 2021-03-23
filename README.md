@@ -19,8 +19,8 @@ The repository contains the following files:
 
 |File|Type|Description|
 |---|---|---|
-|`WallStreet.bas`|VBA Script|This script covers the first part of the VBA Challenge|
-|`WallStreet_bonus.bas`|VBA Script|This script covers the firta part and the bonus of the VBA Challenge|
+|`WallStreet.vbs`|VBA Script|This script covers the first part of the VBA Challenge|
+|`WallStreet_bonus.vbs`|VBA Script|This script covers the firta part and the bonus of the VBA Challenge|
 |`Multiple_year_stock_data.xlsm`|Excel file with macros|This file contains the data source with the embedded macros and the scripts already applied|
 |`Multiple_year_stock_data.xlsx`|Excel file|This file contains the data source which the scripts could be applied from scratch (Note: The VBA scripts needs to be imported)|
 |`screenshots`|Directory|Contains the screenshots with the script output applied to the source file|
